@@ -108,8 +108,40 @@ main {
     color: #757575;
 }
 /* banner part end  */
-/* banner part end  */
-/* banner part end  */
+/* what i do part start  */
+.what_i_do {
+ margin-top: 130px;
+}
+.section_title {
+
+}
+.skills_container {
+    display: flex;
+    gap: 24px;
+}
+.skills {
+    background-color: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+.skills_title {
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 130px;
+}
+.skill_description{
+    font-size: 16px;
+    color: #757575;
+}
+.skill_title {
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+/* what i do part end  */
 /* banner part end  */
 /* banner part end  */
 /* banner part end  */
